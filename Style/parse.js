@@ -1,3 +1,4 @@
+let fs = require('fs');
 let jsonObj = require('./style.json')
 
 for(let key in jsonObj){
@@ -15,4 +16,5 @@ for(let key in jsonObj){
 	jsonObj[key] = value
 }
 
-console.log(jsonObj)
+let data = JSON.stringify(jsonObj);
+fs.writeFileSync('parsed_style.json', data);

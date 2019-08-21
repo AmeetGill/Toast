@@ -1,6 +1,6 @@
 {
-   "MozAnimation":"Moz-animation",
-   "MozAnimationDelay":"Moz-animation-delay",
+   "MozAnimation":"MozAnimation",
+   "MozAnimationDelay":"MozAnimationDelay",
    "MozAnimationDirection":"MozAnimationDirection",
    "MozAnimationDuration":"MozAnimationDuration",
    "MozAnimationFillMode":"MozAnimationFillMode",
