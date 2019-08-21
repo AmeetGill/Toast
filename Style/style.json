@@ -1,1097 +1,575 @@
 {
-	"MozAnimation": "",
-	"MozAnimationDelay": "",
-	"MozAnimationDirection": "",
-	"MozAnimationDuration": "",
-	"MozAnimationFillMode": "",
-	"MozAnimationIterationCount": "",
-	"MozAnimationName": "",
-	"MozAnimationPlayState": "",
-	"MozAnimationTimingFunction": "",
-	"MozBackfaceVisibility": "",
-	"MozBorderEnd": "",
-	"MozBorderEndColor": "",
-	"MozBorderEndStyle": "",
-	"MozBorderEndWidth": "",
-	"MozBorderImage": "",
-	"MozBorderStart": "",
-	"MozBorderStartColor": "",
-	"MozBorderStartStyle": "",
-	"MozBorderStartWidth": "",
-	"MozBoxAlign": "",
-	"MozBoxDirection": "",
-	"MozBoxFlex": "",
-	"MozBoxOrdinalGroup": "",
-	"MozBoxOrient": "",
-	"MozBoxPack": "",
-	"MozBoxSizing": "",
-	"MozColumnCount": "",
-	"MozColumnFill": "",
-	"MozColumnGap": "",
-	"MozColumnRule": "",
-	"MozColumnRuleColor": "",
-	"MozColumnRuleStyle": "",
-	"MozColumnRuleWidth": "",
-	"MozColumnWidth": "",
-	"MozColumns": "",
-	"MozFloatEdge": "",
-	"MozFontFeatureSettings": "",
-
-	"MozFontLanguageOverride": "",
-	"MozForceBrokenImageIcon": "",
-
-	"MozHyphens": "",
-
-	"MozImageRegion": "",
-
-	"MozMarginEnd": "",
-
-	"MozMarginStart": "",
-
-	"MozOrient": "",
-
-	"MozOutlineRadius": "",
-
-	"MozOutlineRadiusBottomleft": "",
-
-	"MozOutlineRadiusBottomright": "",
-
-	"MozOutlineRadiusTopleft": "",
-
-	"MozOutlineRadiusTopright": "",
-
-	"MozPaddingEnd": "",
-
-	"MozPaddingStart": "",
-
-	"MozPerspective": "",
-
-	"MozPerspectiveOrigin": "",
-
-	"MozStackSizing": "",
-
-	"MozTabSize": "",
-
-	"MozTextSizeAdjust": "",
-
-	"MozTransform": "",
-
-	"MozTransformOrigin": "",
-
-	"MozTransformStyle": "",
-
-	"MozTransition": "",
-
-	"MozTransitionDelay": "",
-
-	"MozTransitionDuration": "",
-
-	"MozTransitionProperty": "",
-
-	"MozTransitionTimingFunction": "",
-
-	"MozUserFocus": "",
-
-	"MozUserInput": "",
-
-	"MozUserModify": "",
-
-	"MozUserSelect": "",
-
-	"MozWindowDragging": "",
-
-	"WebkitAlignContent": "",
-
-	"WebkitAlignItems": "",
-
-	"WebkitAlignSelf": "",
-
-	"WebkitAnimation": "",
-
-	"WebkitAnimationDelay": "",
-
-	"WebkitAnimationDirection": "",
-
-	"WebkitAnimationDuration": "",
-
-	"WebkitAnimationFillMode": "",
-
-	"WebkitAnimationIterationCount": "",
-
-	"WebkitAnimationName": "",
-
-	"WebkitAnimationPlayState": "",
-
-	"WebkitAnimationTimingFunction": "",
-
-	"WebkitAppearance": "",
-
-	"WebkitBackfaceVisibility": "",
-
-	"WebkitBackgroundClip": "",
-
-	"WebkitBackgroundOrigin": "",
-
-	"WebkitBackgroundSize": "",
-
-	"WebkitBorderBottomLeftRadius": "",
-
-	"WebkitBorderBottomRightRadius": "",
-
-	"WebkitBorderImage": "",
-
-	"WebkitBorderRadius": "",
-
-	"WebkitBorderTopLeftRadius": "",
-
-	"WebkitBorderTopRightRadius": "",
-
-	"WebkitBoxAlign": "",
-
-	"WebkitBoxDirection": "",
-
-	"WebkitBoxFlex": "",
-
-	"WebkitBoxOrdinalGroup": "",
-
-	"WebkitBoxOrient": "",
-
-	"WebkitBoxPack": "",
-
-	"WebkitBoxShadow": "",
-
-	"WebkitBoxSizing": "",
-
-	"WebkitFilter": "",
-
-	"WebkitFlex": "",
-
-	"WebkitFlexBasis": "",
-
-	"WebkitFlexDirection": "",
-
-	"WebkitFlexFlow": "",
-
-	"WebkitFlexGrow": "",
-
-	"WebkitFlexShrink": "",
-
-	"WebkitFlexWrap": "",
-
-	"WebkitJustifyContent": "",
-
-	"WebkitLineClamp": "",
-
-	"WebkitMask": "",
-
-	"WebkitMaskClip": "",
-
-	"WebkitMaskComposite": "",
-
-	"WebkitMaskImage": "",
-
-	"WebkitMaskOrigin": "",
-
-	"WebkitMaskPosition": "",
-
-	"WebkitMaskPositionX": "",
-
-	"WebkitMaskPositionY": "",
-
-	"WebkitMaskRepeat": "",
-
-	"WebkitMaskSize": "",
-
-	"WebkitOrder": "",
-
-	"WebkitPerspective": "",
-
-	"WebkitPerspectiveOrigin": "",
-
-	"WebkitTextFillColor": "",
-
-	"WebkitTextSizeAdjust": "",
-
-	"WebkitTextStroke": "",
-
-	"WebkitTextStrokeColor": "",
-
-	"WebkitTextStrokeWidth": "",
-
-	"WebkitTransform": "",
-
-	"WebkitTransformOrigin": "",
-
-	"WebkitTransformStyle": "",
-	"WebkitTransition": "",
-	"WebkitTransitionDelay": "",
-
-	"WebkitTransitionDuration": "",
-	"WebkitTransitionProperty": "",
-
-	"WebkitTransitionTimingFunction": "",
-
-	"WebkitUserSelect": "",
-
-	"alignContent": "",
-
-	"alignItems": "",
-
-	"alignSelf": "",
-
-	"all": "",
-
-	"animation": "",
-
-	"animationDelay": "",
-
-	"animationDirection": "",
-
-	"animationDuration": "",
-
-	"animationFillMode": "",
-
-	"animationIterationCount": "",
-
-	"animationName": "",
-
-	"animationPlayState": "",
-
-	"animationTimingFunction": "",
-
-	"backfaceVisibility": "",
-
-	"background": "",
-
-	"backgroundAttachment": "",
-
-	"backgroundBlendMode": "",
-
-	"backgroundClip": "",
-
-	"backgroundColor": "",
-
-	"backgroundImage": "",
-
-	"backgroundOrigin": "",
-
-	"backgroundPosition": "",
-
-	"backgroundPositionX": "",
-
-	"backgroundPositionY": "",
-
-	"backgroundRepeat": "",
-
-	"backgroundSize": "",
-
-	"blockSize": "",
-
-	"border": "",
-
-	"borderBlock": "",
-
-	"borderBlockColor": "",
-
-	"borderBlockEnd": "",
-
-	"borderBlockEndColor": "",
-
-	"borderBlockEndStyle": "",
-
-	"borderBlockEndWidth": "",
-
-	"borderBlockStart": "",
-
-	"borderBlockStartColor": "",
-
-	"borderBlockStartStyle": "",
-
-	"borderBlockStartWidth": "",
-
-	"borderBlockStyle": "",
-
-	"borderBlockWidth": "",
-
-	"borderBottom": "",
-
-	"borderBottomColor": "",
-
-	"borderBottomLeftRadius": "",
-
-	"borderBottomRightRadius": "",
-
-	"borderBottomStyle": "",
-
-	"borderBottomWidth": "",
-
-	"borderCollapse": "",
-
-	"borderColor": "",
-
-	"borderEndEndRadius": "",
-
-	"borderEndStartRadius": "",
-
-	"borderImage": "",
-
-	"borderImageOutset": "",
-
-	"borderImageRepeat": "",
-
-	"borderImageSlice": "",
-
-	"borderImageSource": "",
-
-	"borderImageWidth": "",
-
-	"borderInline": "",
-
-	"borderInlineColor": "",
-
-	"borderInlineEnd": "",
-
-	"borderInlineEndColor": "",
-
-	"borderInlineEndStyle": "",
-
-	"borderInlineEndWidth": "",
-
-	"borderInlineStart": "",
-
-	"borderInlineStartColor": "",
-
-	"borderInlineStartStyle": "",
-
-	"borderInlineStartWidth": "",
-
-	"borderInlineStyle": "",
-
-	"borderInlineWidth": "",
-
-	"borderLeft": "",
-
-	"borderLeftColor": "",
-
-	"borderLeftStyle": "",
-
-	"borderLeftWidth": "",
-
-	"borderRadius": "",
-
-	"borderRight": "",
-
-	"borderRightColor": "",
-
-	"borderRightStyle": "",
-
-	"borderRightWidth": "",
-
-	"borderSpacing": "",
-
-	"borderStartEndRadius": "",
-
-	"borderStartStartRadius": "",
-
-	"borderStyle": "",
-
-	"borderTop": "",
-
-	"borderTopColor": "",
-
-	"borderTopLeftRadius": "",
-
-	"borderTopRightRadius": "",
-
-	"borderTopStyle": "",
-
-	"borderTopWidth": "",
-
-	"borderWidth": "",
-
-	"bottom": "",
-
-	"boxDecorationBreak": "",
-
-	"boxShadow": "",
-
-	"boxSizing": "",
-
-	"breakAfter": "",
-
-	"breakBefore": "",
-
-	"breakInside": "",
-
-	"captionSide": "",
-
-	"caretColor": "",
-
-	"clear": "",
-
-	"clip": "",
-
-	"clipPath": "",
-
-	"clipRule": "",
-
-	"color": "",
-
-	"colorAdjust": "",
-
-	"colorInterpolation": "",
-
-	"colorInterpolationFilters": "",
-
-	"columnCount": "",
-
-	"columnFill": "",
-
-	"columnGap": "",
-
-	"columnRule": "",
-
-	"columnRuleColor": "",
-
-	"columnRuleStyle": "",
-	"columnRuleWidth": "",
-
-	"columnWidth": "",
-
-	"columns": "",
-
-	"content": "",
-
-	"counterIncrement": "",
-
-	"counterReset": "",
-
-	"counterSet": "",
-
-	"cssFloat": "",
-
-	"cssText": "",
-
-	"cursor": "",
-
-	"direction": "",
-
-	"display": "",
-
-	"dominantBaseline": "",
-
-	"emptyCells": "",
-
-	"fill": "",
-
-	"fillOpacity": "",
-
-	"fillRule": "",
-
-	"filter": "",
-
-	"flex": "",
-
-	"flexBasis": "",
-
-	"flexDirection": "",
-
-	"flexFlow": "",
-
-	"flexGrow": "",
-
-	"flexShrink": "",
-
-	"flexWrap": "",
-
-	"float": "",
-
-	"floodColor": "",
-
-	"floodOpacity": "",
-
-	"font": "",
-
-	"fontFamily": "",
-
-	"fontFeatureSettings": "",
-
-	"fontKerning": "",
-
-	"fontLanguageOverride": "",
-
-	"fontSize": "",
-
-	"fontSizeAdjust": "",
-
-	"fontStretch": "",
-
-	"fontStyle": "",
-
-	"fontSynthesis": "",
-
-	"fontVariant": "",
-
-	"fontVariantAlternates": "",
-
-	"fontVariantCaps": "",
-
-	"fontVariantEastAsian": "",
-
-	"fontVariantLigatures": "",
-
-	"fontVariantNumeric": "",
-
-	"fontVariantPosition": "",
-
-	"fontWeight": "",
-
-	"gap": "",
-
-	"grid": "",
-
-	"gridArea": "",
-
-	"gridAutoColumns": "",
-
-	"gridAutoFlow": "",
-
-	"gridAutoRows": "",
-
-	"gridColumn": "",
-
-	"gridColumnEnd": "",
-
-	"gridColumnGap": "",
-
-	"gridColumnStart": "",
-
-	"gridGap": "",
-
-	"gridRow": "",
-
-	"gridRowEnd": "",
-
-	"gridRowGap": "",
-
-	"gridRowStart": "",
-
-	"gridTemplate": "",
-
-	"gridTemplateAreas": "",
-
-	"gridTemplateColumns": "",
-
-	"gridTemplateRows": "",
-
-	"height": "",
-
-	"hyphens": "",
-
-	"imageOrientation": "",
-
-	"imageRendering": "",
-
-	"imeMode": "",
-
-	"inlineSize": "",
-
-	"inset": "",
-
-	"insetBlock": "",
-
-	"insetBlockEnd": "",
-
-	"insetBlockStart": "",
-
-	"insetInline": "",
-
-	"insetInlineEnd": "",
-
-	"insetInlineStart": "",
-
-	"isolation": "",
-
-	"justifyContent": "",
-
-	"justifyItems": "",
-	"justifySelf": "",
-
-	"left": "",
-
-	"length": 0,
-	"letterSpacing": "",
-
-	"lightingColor": "",
-
-	"lineHeight": "",
-
-	"listStyle": "",
-
-	"listStyleImage": "",
-
-	"listStylePosition": "",
-
-	"listStyleType": "",
-
-	"margin": "",
-
-	"marginBlock": "",
-
-	"marginBlockEnd": "",
-
-	"marginBlockStart": "",
-
-	"marginBottom": "",
-
-	"marginInline": "",
-
-	"marginInlineEnd": "",
-
-	"marginInlineStart": "",
-
-	"marginLeft": "",
-
-	"marginRight": "",
-
-	"marginTop": "",
-
-	"marker": "",
-
-	"markerEnd": "",
-
-	"markerMid": "",
-
-	"markerStart": "",
-
-	"mask": "",
-
-	"maskClip": "",
-
-	"maskComposite": "",
-
-	"maskImage": "",
-
-	"maskMode": "",
-
-	"maskOrigin": "",
-
-	"maskPosition": "",
-
-	"maskPositionX": "",
-
-	"maskPositionY": "",
-
-	"maskRepeat": "",
-
-	"maskSize": "",
-
-	"maskType": "",
-
-	"maxBlockSize": "",
-
-	"maxHeight": "",
-
-	"maxInlineSize": "",
-
-	"maxWidth": "",
-
-	"minBlockSize": "",
-
-	"minHeight": "",
-
-	"minInlineSize": "",
-
-	"minWidth": "",
-
-	"mixBlendMode": "",
-
-	"objectFit": "",
-
-	"objectPosition": "",
-
-	"opacity": "",
-
-	"order": "",
-
-	"outline": "",
-
-	"outlineColor": "",
-
-	"outlineOffset": "",
-
-	"outlineStyle": "",
-
-	"outlineWidth": "",
-
-	"overflow": "",
-
-	"overflowAnchor": "",
-
-	"overflowWrap": "",
-
-	"overflowX": "",
-
-	"overflowY": "",
-
-	"overscrollBehavior": "",
-
-	"overscrollBehaviorX": "",
-
-	"overscrollBehaviorY": "",
-
-	"padding": "",
-
-	"paddingBlock": "",
-
-	"paddingBlockEnd": "",
-	"paddingBlockStart": "",
-
-	"paddingBottom": "",
-
-	"paddingInline": "",
-
-	"paddingInlineEnd": "",
-
-	"paddingInlineStart": "",
-
-	"paddingLeft": "",
-
-	"paddingRight": "",
-
-	"paddingTop": "",
-
-	"pageBreakAfter": "",
-
-	"pageBreakBefore": "",
-
-	"pageBreakInside": "",
-
-	"paintOrder": "",
-
-	"parentRule": null,
-	"perspective": "",
-	"perspectiveOrigin": "",
-
-	"placeContent": "",
-
-	"placeItems": "",
-
-	"placeSelf": "",
-
-	"pointerEvents": "",
-
-	"position": "",
-
-	"quotes": "",
-
-	"resize": "",
-
-	"right": "",
-
-	"rowGap": "",
-
-	"rubyAlign": "",
-
-	"rubyPosition": "",
-
-	"scrollBehavior": "",
-
-	"scrollMargin": "",
-
-	"scrollMarginBlock": "",
-
-	"scrollMarginBlockEnd": "",
-
-	"scrollMarginBlockStart": "",
-
-	"scrollMarginBottom": "",
-
-	"scrollMarginInline": "",
-
-	"scrollMarginInlineEnd": "",
-
-	"scrollMarginInlineStart": "",
-
-	"scrollMarginLeft": "",
-
-	"scrollMarginRight": "",
-
-	"scrollMarginTop": "",
-
-	"scrollPadding": "",
-
-	"scrollPaddingBlock": "",
-
-	"scrollPaddingBlockEnd": "",
-
-	"scrollPaddingBlockStart": "",
-
-	"scrollPaddingBottom": "",
-
-	"scrollPaddingInline": "",
-
-	"scrollPaddingInlineEnd": "",
-
-	"scrollPaddingInlineStart": "",
-
-	"scrollPaddingLeft": "",
-
-	"scrollPaddingRight": "",
-
-	"scrollPaddingTop": "",
-
-	"scrollSnapAlign": "",
-	"scrollSnapType": "",
-
-	"scrollbarColor": "",
-
-	"scrollbarWidth": "",
-
-	"shapeImageThreshold": "",
-
-	"shapeMargin": "",
-
-	"shapeOutside": "",
-
-	"shapeRendering": "",
-
-	"stopColor": "",
-
-	"stopOpacity": "",
-
-	"stroke": "",
-
-	"strokeDasharray": "",
-
-	"strokeDashoffset": "",
-
-	"strokeLinecap": "",
-
-	"strokeLinejoin": "",
-
-	"strokeMiterlimit": "",
-
-	"strokeOpacity": "",
-
-	"strokeWidth": "",
-
-	"tableLayout": "",
-
-	"textAlign": "",
-
-	"textAlignLast": "",
-
-	"textAnchor": "",
-
-	"textCombineUpright": "",
-
-	"textDecoration": "",
-	"textDecorationColor": "",
-
-	"textDecorationLine": "",
-
-	"textDecorationStyle": "",
-
-	"textEmphasis": "",
-
-	"textEmphasisColor": "",
-
-	"textEmphasisPosition": "",
-
-	"textEmphasisStyle": "",
-
-	"textIndent": "",
-
-	"textJustify": "",
-
-	"textOrientation": "",
-
-	"textOverflow": "",
-
-	"textRendering": "",
-
-	"textShadow": "",
-
-	"textTransform": "",
-
-	"top": "",
-
-	"touchAction": "",
-
-	"transform": "",
-
-	"transformBox": "",
-
-	"transformOrigin": "",
-
-	"transformStyle": "",
-
-	"transition": "",
-
-	"transitionDelay": "",
-
-	"transitionDuration": "",
-
-	"transitionProperty": "",
-
-	"transitionTimingFunction": "",
-
-	"unicodeBidi": "",
-
-	"vectorEffect": "",
-
-	"verticalAlign": "",
-
-	"visibility": "",
-
-	"webkitAlignContent": "",
-
-	"webkitAlignItems": "",
-
-	"webkitAlignSelf": "",
-
-	"webkitAnimation": "",
-
-	"webkitAnimationDelay": "",
-
-	"webkitAnimationDirection": "",
-
-	"webkitAnimationDuration": "",
-
-	"webkitAnimationFillMode": "",
-
-	"webkitAnimationIterationCount": "",
-
-	"webkitAnimationName": "",
-
-	"webkitAnimationPlayState": "",
-
-	"webkitAnimationTimingFunction": "",
-
-	"webkitAppearance": "",
-
-	"webkitBackfaceVisibility": "",
-
-	"webkitBackgroundClip": "",
-
-	"webkitBackgroundOrigin": "",
-
-	"webkitBackgroundSize": "",
-
-	"webkitBorderBottomLeftRadius": "",
-
-	"webkitBorderBottomRightRadius": "",
-
-	"webkitBorderImage": "",
-
-	"webkitBorderRadius": "",
-
-	"webkitBorderTopLeftRadius": "",
-
-	"webkitBorderTopRightRadius": "",
-
-	"webkitBoxAlign": "",
-
-	"webkitBoxDirection": "",
-
-	"webkitBoxFlex": "",
-
-	"webkitBoxOrdinalGroup": "",
-
-	"webkitBoxOrient": "",
-
-	"webkitBoxPack": "",
-
-	"webkitBoxShadow": "",
-
-	"webkitBoxSizing": "",
-
-	"webkitFilter": "",
-
-	"webkitFlex": "",
-
-	"webkitFlexBasis": "",
-
-	"webkitFlexDirection": "",
-
-	"webkitFlexFlow": "",
-
-	"webkitFlexGrow": "",
-
-	"webkitFlexShrink": "",
-
-	"webkitFlexWrap": "",
-
-	"webkitJustifyContent": "",
-
-	"webkitLineClamp": "",
-
-	"webkitMask": "",
-
-	"webkitMaskClip": "",
-
-	"webkitMaskComposite": "",
-
-	"webkitMaskImage": "",
-
-	"webkitMaskOrigin": "",
-
-	"webkitMaskPosition": "",
-
-	"webkitMaskPositionX": "",
-
-	"webkitMaskPositionY": "",
-
-	"webkitMaskRepeat": "",
-
-	"webkitMaskSize": "",
-
-	"webkitOrder": "",
-	"webkitPerspective": "",
-
-	"webkitPerspectiveOrigin": "",
-
-	"webkitTextFillColor": "",
-
-	"webkitTextSizeAdjust": "",
-
-	"webkitTextStroke": "",
-
-	"webkitTextStrokeColor": "",
-
-	"webkitTextStrokeWidth": "",
-
-	"webkitTransform": "",
-
-	"webkitTransformOrigin": "",
-
-	"webkitTransformStyle": "",
-
-	"webkitTransition": "",
-
-	"webkitTransitionDelay": "",
-
-	"webkitTransitionDuration": "",
-
-	"webkitTransitionProperty": "",
-
-	"webkitTransitionTimingFunction": "",
-
-	"webkitUserSelect": "",
-
-	"whiteSpace": "",
-
-	"width": "",
-
-	"willChange": "",
-
-	"wordBreak": "",
-
-	"wordSpacing": "",
-
-	"wordWrap": "",
-
-	"writingMode": "",
-	"zIndex": ""
+   "MozAnimation":"Moz-animation",
+   "MozAnimationDelay":"Moz-animation-delay",
+   "MozAnimationDirection":"MozAnimationDirection",
+   "MozAnimationDuration":"MozAnimationDuration",
+   "MozAnimationFillMode":"MozAnimationFillMode",
+   "MozAnimationIterationCount":"MozAnimationIterationCount",
+   "MozAnimationName":"MozAnimationName",
+   "MozAnimationPlayState":"MozAnimationPlayState",
+   "MozAnimationTimingFunction":"MozAnimationTimingFunction",
+   "MozBackfaceVisibility":"MozBackfaceVisibility",
+   "MozBorderEnd":"MozBorderEnd",
+   "MozBorderEndColor":"MozBorderEndColor",
+   "MozBorderEndStyle":"MozBorderEndStyle",
+   "MozBorderEndWidth":"MozBorderEndWidth",
+   "MozBorderImage":"MozBorderImage",
+   "MozBorderStart":"MozBorderStart",
+   "MozBorderStartColor":"MozBorderStartColor",
+   "MozBorderStartStyle":"MozBorderStartStyle",
+   "MozBorderStartWidth":"MozBorderStartWidth",
+   "MozBoxAlign":"MozBoxAlign",
+   "MozBoxDirection":"MozBoxDirection",
+   "MozBoxFlex":"MozBoxFlex",
+   "MozBoxOrdinalGroup":"MozBoxOrdinalGroup",
+   "MozBoxOrient":"MozBoxOrient",
+   "MozBoxPack":"MozBoxPack",
+   "MozBoxSizing":"MozBoxSizing",
+   "MozColumnCount":"MozColumnCount",
+   "MozColumnFill":"MozColumnFill",
+   "MozColumnGap":"MozColumnGap",
+   "MozColumnRule":"MozColumnRule",
+   "MozColumnRuleColor":"MozColumnRuleColor",
+   "MozColumnRuleStyle":"MozColumnRuleStyle",
+   "MozColumnRuleWidth":"MozColumnRuleWidth",
+   "MozColumnWidth":"MozColumnWidth",
+   "MozColumns":"MozColumns",
+   "MozFloatEdge":"MozFloatEdge",
+   "MozFontFeatureSettings":"MozFontFeatureSettings",
+   "MozFontLanguageOverride":"MozFontLanguageOverride",
+   "MozForceBrokenImageIcon":"MozForceBrokenImageIcon",
+   "MozHyphens":"MozHyphens",
+   "MozImageRegion":"MozImageRegion",
+   "MozMarginEnd":"MozMarginEnd",
+   "MozMarginStart":"MozMarginStart",
+   "MozOrient":"MozOrient",
+   "MozOutlineRadius":"MozOutlineRadius",
+   "MozOutlineRadiusBottomleft":"MozOutlineRadiusBottomleft",
+   "MozOutlineRadiusBottomright":"MozOutlineRadiusBottomright",
+   "MozOutlineRadiusTopleft":"MozOutlineRadiusTopleft",
+   "MozOutlineRadiusTopright":"MozOutlineRadiusTopright",
+   "MozPaddingEnd":"MozPaddingEnd",
+   "MozPaddingStart":"MozPaddingStart",
+   "MozPerspective":"MozPerspective",
+   "MozPerspectiveOrigin":"MozPerspectiveOrigin",
+   "MozStackSizing":"MozStackSizing",
+   "MozTabSize":"MozTabSize",
+   "MozTextSizeAdjust":"MozTextSizeAdjust",
+   "MozTransform":"MozTransform",
+   "MozTransformOrigin":"MozTransformOrigin",
+   "MozTransformStyle":"MozTransformStyle",
+   "MozTransition":"MozTransition",
+   "MozTransitionDelay":"MozTransitionDelay",
+   "MozTransitionDuration":"MozTransitionDuration",
+   "MozTransitionProperty":"MozTransitionProperty",
+   "MozTransitionTimingFunction":"MozTransitionTimingFunction",
+   "MozUserFocus":"MozUserFocus",
+   "MozUserInput":"MozUserInput",
+   "MozUserModify":"MozUserModify",
+   "MozUserSelect":"MozUserSelect",
+   "MozWindowDragging":"MozWindowDragging",
+   "WebkitAlignContent":"WebkitAlignContent",
+   "WebkitAlignItems":"WebkitAlignItems",
+   "WebkitAlignSelf":"WebkitAlignSelf",
+   "WebkitAnimation":"WebkitAnimation",
+   "WebkitAnimationDelay":"WebkitAnimationDelay",
+   "WebkitAnimationDirection":"WebkitAnimationDirection",
+   "WebkitAnimationDuration":"WebkitAnimationDuration",
+   "WebkitAnimationFillMode":"WebkitAnimationFillMode",
+   "WebkitAnimationIterationCount":"WebkitAnimationIterationCount",
+   "WebkitAnimationName":"WebkitAnimationName",
+   "WebkitAnimationPlayState":"WebkitAnimationPlayState",
+   "WebkitAnimationTimingFunction":"WebkitAnimationTimingFunction",
+   "WebkitAppearance":"WebkitAppearance",
+   "WebkitBackfaceVisibility":"WebkitBackfaceVisibility",
+   "WebkitBackgroundClip":"WebkitBackgroundClip",
+   "WebkitBackgroundOrigin":"WebkitBackgroundOrigin",
+   "WebkitBackgroundSize":"WebkitBackgroundSize",
+   "WebkitBorderBottomLeftRadius":"WebkitBorderBottomLeftRadius",
+   "WebkitBorderBottomRightRadius":"WebkitBorderBottomRightRadius",
+   "WebkitBorderImage":"WebkitBorderImage",
+   "WebkitBorderRadius":"WebkitBorderRadius",
+   "WebkitBorderTopLeftRadius":"WebkitBorderTopLeftRadius",
+   "WebkitBorderTopRightRadius":"WebkitBorderTopRightRadius",
+   "WebkitBoxAlign":"WebkitBoxAlign",
+   "WebkitBoxDirection":"WebkitBoxDirection",
+   "WebkitBoxFlex":"WebkitBoxFlex",
+   "WebkitBoxOrdinalGroup":"WebkitBoxOrdinalGroup",
+   "WebkitBoxOrient":"WebkitBoxOrient",
+   "WebkitBoxPack":"WebkitBoxPack",
+   "WebkitBoxShadow":"WebkitBoxShadow",
+   "WebkitBoxSizing":"WebkitBoxSizing",
+   "WebkitFilter":"WebkitFilter",
+   "WebkitFlex":"WebkitFlex",
+   "WebkitFlexBasis":"WebkitFlexBasis",
+   "WebkitFlexDirection":"WebkitFlexDirection",
+   "WebkitFlexFlow":"WebkitFlexFlow",
+   "WebkitFlexGrow":"WebkitFlexGrow",
+   "WebkitFlexShrink":"WebkitFlexShrink",
+   "WebkitFlexWrap":"WebkitFlexWrap",
+   "WebkitJustifyContent":"WebkitJustifyContent",
+   "WebkitLineClamp":"WebkitLineClamp",
+   "WebkitMask":"WebkitMask",
+   "WebkitMaskClip":"WebkitMaskClip",
+   "WebkitMaskComposite":"WebkitMaskComposite",
+   "WebkitMaskImage":"WebkitMaskImage",
+   "WebkitMaskOrigin":"WebkitMaskOrigin",
+   "WebkitMaskPosition":"WebkitMaskPosition",
+   "WebkitMaskPositionX":"WebkitMaskPositionX",
+   "WebkitMaskPositionY":"WebkitMaskPositionY",
+   "WebkitMaskRepeat":"WebkitMaskRepeat",
+   "WebkitMaskSize":"WebkitMaskSize",
+   "WebkitOrder":"WebkitOrder",
+   "WebkitPerspective":"WebkitPerspective",
+   "WebkitPerspectiveOrigin":"WebkitPerspectiveOrigin",
+   "WebkitTextFillColor":"WebkitTextFillColor",
+   "WebkitTextSizeAdjust":"WebkitTextSizeAdjust",
+   "WebkitTextStroke":"WebkitTextStroke",
+   "WebkitTextStrokeColor":"WebkitTextStrokeColor",
+   "WebkitTextStrokeWidth":"WebkitTextStrokeWidth",
+   "WebkitTransform":"WebkitTransform",
+   "WebkitTransformOrigin":"WebkitTransformOrigin",
+   "WebkitTransformStyle":"WebkitTransformStyle",
+   "WebkitTransition":"WebkitTransition",
+   "WebkitTransitionDelay":"WebkitTransitionDelay",
+   "WebkitTransitionDuration":"WebkitTransitionDuration",
+   "WebkitTransitionProperty":"WebkitTransitionProperty",
+   "WebkitTransitionTimingFunction":"WebkitTransitionTimingFunction",
+   "WebkitUserSelect":"WebkitUserSelect",
+   "alignContent":"alignContent",
+   "alignItems":"alignItems",
+   "alignSelf":"alignSelf",
+   "all":"all",
+   "animation":"animation",
+   "animationDelay":"animationDelay",
+   "animationDirection":"animationDirection",
+   "animationDuration":"animationDuration",
+   "animationFillMode":"animationFillMode",
+   "animationIterationCount":"animationIterationCount",
+   "animationName":"animationName",
+   "animationPlayState":"animationPlayState",
+   "animationTimingFunction":"animationTimingFunction",
+   "backfaceVisibility":"backfaceVisibility",
+   "background":"background",
+   "backgroundAttachment":"backgroundAttachment",
+   "backgroundBlendMode":"backgroundBlendMode",
+   "backgroundClip":"backgroundClip",
+   "backgroundColor":"backgroundColor",
+   "backgroundImage":"backgroundImage",
+   "backgroundOrigin":"backgroundOrigin",
+   "backgroundPosition":"backgroundPosition",
+   "backgroundPositionX":"backgroundPositionX",
+   "backgroundPositionY":"backgroundPositionY",
+   "backgroundRepeat":"backgroundRepeat",
+   "backgroundSize":"backgroundSize",
+   "blockSize":"blockSize",
+   "border":"border",
+   "borderBlock":"borderBlock",
+   "borderBlockColor":"borderBlockColor",
+   "borderBlockEnd":"borderBlockEnd",
+   "borderBlockEndColor":"borderBlockEndColor",
+   "borderBlockEndStyle":"borderBlockEndStyle",
+   "borderBlockEndWidth":"borderBlockEndWidth",
+   "borderBlockStart":"borderBlockStart",
+   "borderBlockStartColor":"borderBlockStartColor",
+   "borderBlockStartStyle":"borderBlockStartStyle",
+   "borderBlockStartWidth":"borderBlockStartWidth",
+   "borderBlockStyle":"borderBlockStyle",
+   "borderBlockWidth":"borderBlockWidth",
+   "borderBottom":"borderBottom",
+   "borderBottomColor":"borderBottomColor",
+   "borderBottomLeftRadius":"borderBottomLeftRadius",
+   "borderBottomRightRadius":"borderBottomRightRadius",
+   "borderBottomStyle":"borderBottomStyle",
+   "borderBottomWidth":"borderBottomWidth",
+   "borderCollapse":"borderCollapse",
+   "borderColor":"borderColor",
+   "borderEndEndRadius":"borderEndEndRadius",
+   "borderEndStartRadius":"borderEndStartRadius",
+   "borderImage":"borderImage",
+   "borderImageOutset":"borderImageOutset",
+   "borderImageRepeat":"borderImageRepeat",
+   "borderImageSlice":"borderImageSlice",
+   "borderImageSource":"borderImageSource",
+   "borderImageWidth":"borderImageWidth",
+   "borderInline":"borderInline",
+   "borderInlineColor":"borderInlineColor",
+   "borderInlineEnd":"borderInlineEnd",
+   "borderInlineEndColor":"borderInlineEndColor",
+   "borderInlineEndStyle":"borderInlineEndStyle",
+   "borderInlineEndWidth":"borderInlineEndWidth",
+   "borderInlineStart":"borderInlineStart",
+   "borderInlineStartColor":"borderInlineStartColor",
+   "borderInlineStartStyle":"borderInlineStartStyle",
+   "borderInlineStartWidth":"borderInlineStartWidth",
+   "borderInlineStyle":"borderInlineStyle",
+   "borderInlineWidth":"borderInlineWidth",
+   "borderLeft":"borderLeft",
+   "borderLeftColor":"borderLeftColor",
+   "borderLeftStyle":"borderLeftStyle",
+   "borderLeftWidth":"borderLeftWidth",
+   "borderRadius":"borderRadius",
+   "borderRight":"borderRight",
+   "borderRightColor":"borderRightColor",
+   "borderRightStyle":"borderRightStyle",
+   "borderRightWidth":"borderRightWidth",
+   "borderSpacing":"borderSpacing",
+   "borderStartEndRadius":"borderStartEndRadius",
+   "borderStartStartRadius":"borderStartStartRadius",
+   "borderStyle":"borderStyle",
+   "borderTop":"borderTop",
+   "borderTopColor":"borderTopColor",
+   "borderTopLeftRadius":"borderTopLeftRadius",
+   "borderTopRightRadius":"borderTopRightRadius",
+   "borderTopStyle":"borderTopStyle",
+   "borderTopWidth":"borderTopWidth",
+   "borderWidth":"borderWidth",
+   "bottom":"bottom",
+   "boxDecorationBreak":"boxDecorationBreak",
+   "boxShadow":"boxShadow",
+   "boxSizing":"boxSizing",
+   "breakAfter":"breakAfter",
+   "breakBefore":"breakBefore",
+   "breakInside":"breakInside",
+   "captionSide":"captionSide",
+   "caretColor":"caretColor",
+   "clear":"clear",
+   "clip":"clip",
+   "clipPath":"clipPath",
+   "clipRule":"clipRule",
+   "color":"color",
+   "colorAdjust":"colorAdjust",
+   "colorInterpolation":"colorInterpolation",
+   "colorInterpolationFilters":"colorInterpolationFilters",
+   "columnCount":"columnCount",
+   "columnFill":"columnFill",
+   "columnGap":"columnGap",
+   "columnRule":"columnRule",
+   "columnRuleColor":"columnRuleColor",
+   "columnRuleStyle":"columnRuleStyle",
+   "columnRuleWidth":"columnRuleWidth",
+   "columnWidth":"columnWidth",
+   "columns":"columns",
+   "content":"content",
+   "counterIncrement":"counterIncrement",
+   "counterReset":"counterReset",
+   "counterSet":"counterSet",
+   "cssFloat":"cssFloat",
+   "cssText":"cssText",
+   "cursor":"cursor",
+   "direction":"direction",
+   "display":"display",
+   "dominantBaseline":"dominantBaseline",
+   "emptyCells":"emptyCells",
+   "fill":"fill",
+   "fillOpacity":"fillOpacity",
+   "fillRule":"fillRule",
+   "filter":"filter",
+   "flex":"flex",
+   "flexBasis":"flexBasis",
+   "flexDirection":"flexDirection",
+   "flexFlow":"flexFlow",
+   "flexGrow":"flexGrow",
+   "flexShrink":"flexShrink",
+   "flexWrap":"flexWrap",
+   "float":"float",
+   "floodColor":"floodColor",
+   "floodOpacity":"floodOpacity",
+   "font":"font",
+   "fontFamily":"fontFamily",
+   "fontFeatureSettings":"fontFeatureSettings",
+   "fontKerning":"fontKerning",
+   "fontLanguageOverride":"fontLanguageOverride",
+   "fontSize":"fontSize",
+   "fontSizeAdjust":"fontSizeAdjust",
+   "fontStretch":"fontStretch",
+   "fontStyle":"fontStyle",
+   "fontSynthesis":"fontSynthesis",
+   "fontVariant":"fontVariant",
+   "fontVariantAlternates":"fontVariantAlternates",
+   "fontVariantCaps":"fontVariantCaps",
+   "fontVariantEastAsian":"fontVariantEastAsian",
+   "fontVariantLigatures":"fontVariantLigatures",
+   "fontVariantNumeric":"fontVariantNumeric",
+   "fontVariantPosition":"fontVariantPosition",
+   "fontWeight":"fontWeight",
+   "gap":"gap",
+   "grid":"grid",
+   "gridArea":"gridArea",
+   "gridAutoColumns":"gridAutoColumns",
+   "gridAutoFlow":"gridAutoFlow",
+   "gridAutoRows":"gridAutoRows",
+   "gridColumn":"gridColumn",
+   "gridColumnEnd":"gridColumnEnd",
+   "gridColumnGap":"gridColumnGap",
+   "gridColumnStart":"gridColumnStart",
+   "gridGap":"gridGap",
+   "gridRow":"gridRow",
+   "gridRowEnd":"gridRowEnd",
+   "gridRowGap":"gridRowGap",
+   "gridRowStart":"gridRowStart",
+   "gridTemplate":"gridTemplate",
+   "gridTemplateAreas":"gridTemplateAreas",
+   "gridTemplateColumns":"gridTemplateColumns",
+   "gridTemplateRows":"gridTemplateRows",
+   "height":"height",
+   "hyphens":"hyphens",
+   "imageOrientation":"imageOrientation",
+   "imageRendering":"imageRendering",
+   "imeMode":"imeMode",
+   "inlineSize":"inlineSize",
+   "inset":"inset",
+   "insetBlock":"insetBlock",
+   "insetBlockEnd":"insetBlockEnd",
+   "insetBlockStart":"insetBlockStart",
+   "insetInline":"insetInline",
+   "insetInlineEnd":"insetInlineEnd",
+   "insetInlineStart":"insetInlineStart",
+   "isolation":"isolation",
+   "justifyContent":"justifyContent",
+   "justifyItems":"justifyItems",
+   "justifySelf":"justifySelf",
+   "left":"left",
+   "length":"length",
+   "letterSpacing":"letterSpacing",
+   "lightingColor":"lightingColor",
+   "lineHeight":"lineHeight",
+   "listStyle":"listStyle",
+   "listStyleImage":"listStyleImage",
+   "listStylePosition":"listStylePosition",
+   "listStyleType":"listStyleType",
+   "margin":"margin",
+   "marginBlock":"marginBlock",
+   "marginBlockEnd":"marginBlockEnd",
+   "marginBlockStart":"marginBlockStart",
+   "marginBottom":"marginBottom",
+   "marginInline":"marginInline",
+   "marginInlineEnd":"marginInlineEnd",
+   "marginInlineStart":"marginInlineStart",
+   "marginLeft":"marginLeft",
+   "marginRight":"marginRight",
+   "marginTop":"marginTop",
+   "marker":"marker",
+   "markerEnd":"markerEnd",
+   "markerMid":"markerMid",
+   "markerStart":"markerStart",
+   "mask":"mask",
+   "maskClip":"maskClip",
+   "maskComposite":"maskComposite",
+   "maskImage":"maskImage",
+   "maskMode":"maskMode",
+   "maskOrigin":"maskOrigin",
+   "maskPosition":"maskPosition",
+   "maskPositionX":"maskPositionX",
+   "maskPositionY":"maskPositionY",
+   "maskRepeat":"maskRepeat",
+   "maskSize":"maskSize",
+   "maskType":"maskType",
+   "maxBlockSize":"maxBlockSize",
+   "maxHeight":"maxHeight",
+   "maxInlineSize":"maxInlineSize",
+   "maxWidth":"maxWidth",
+   "minBlockSize":"minBlockSize",
+   "minHeight":"minHeight",
+   "minInlineSize":"minInlineSize",
+   "minWidth":"minWidth",
+   "mixBlendMode":"mixBlendMode",
+   "objectFit":"objectFit",
+   "objectPosition":"objectPosition",
+   "opacity":"opacity",
+   "order":"order",
+   "outline":"outline",
+   "outlineColor":"outlineColor",
+   "outlineOffset":"outlineOffset",
+   "outlineStyle":"outlineStyle",
+   "outlineWidth":"outlineWidth",
+   "overflow":"overflow",
+   "overflowAnchor":"overflowAnchor",
+   "overflowWrap":"overflowWrap",
+   "overflowX":"overflowX",
+   "overflowY":"overflowY",
+   "overscrollBehavior":"overscrollBehavior",
+   "overscrollBehaviorX":"overscrollBehaviorX",
+   "overscrollBehaviorY":"overscrollBehaviorY",
+   "padding":"padding",
+   "paddingBlock":"paddingBlock",
+   "paddingBlockEnd":"paddingBlockEnd",
+   "paddingBlockStart":"paddingBlockStart",
+   "paddingBottom":"paddingBottom",
+   "paddingInline":"paddingInline",
+   "paddingInlineEnd":"paddingInlineEnd",
+   "paddingInlineStart":"paddingInlineStart",
+   "paddingLeft":"paddingLeft",
+   "paddingRight":"paddingRight",
+   "paddingTop":"paddingTop",
+   "pageBreakAfter":"pageBreakAfter",
+   "pageBreakBefore":"pageBreakBefore",
+   "pageBreakInside":"pageBreakInside",
+   "paintOrder":"paintOrder",
+   "parentRule":"parentRule",
+   "perspective":"perspective",
+   "perspectiveOrigin":"perspectiveOrigin",
+   "placeContent":"placeContent",
+   "placeItems":"placeItems",
+   "placeSelf":"placeSelf",
+   "pointerEvents":"pointerEvents",
+   "position":"position",
+   "quotes":"quotes",
+   "resize":"resize",
+   "right":"right",
+   "rowGap":"rowGap",
+   "rubyAlign":"rubyAlign",
+   "rubyPosition":"rubyPosition",
+   "scrollBehavior":"scrollBehavior",
+   "scrollMargin":"scrollMargin",
+   "scrollMarginBlock":"scrollMarginBlock",
+   "scrollMarginBlockEnd":"scrollMarginBlockEnd",
+   "scrollMarginBlockStart":"scrollMarginBlockStart",
+   "scrollMarginBottom":"scrollMarginBottom",
+   "scrollMarginInline":"scrollMarginInline",
+   "scrollMarginInlineEnd":"scrollMarginInlineEnd",
+   "scrollMarginInlineStart":"scrollMarginInlineStart",
+   "scrollMarginLeft":"scrollMarginLeft",
+   "scrollMarginRight":"scrollMarginRight",
+   "scrollMarginTop":"scrollMarginTop",
+   "scrollPadding":"scrollPadding",
+   "scrollPaddingBlock":"scrollPaddingBlock",
+   "scrollPaddingBlockEnd":"scrollPaddingBlockEnd",
+   "scrollPaddingBlockStart":"scrollPaddingBlockStart",
+   "scrollPaddingBottom":"scrollPaddingBottom",
+   "scrollPaddingInline":"scrollPaddingInline",
+   "scrollPaddingInlineEnd":"scrollPaddingInlineEnd",
+   "scrollPaddingInlineStart":"scrollPaddingInlineStart",
+   "scrollPaddingLeft":"scrollPaddingLeft",
+   "scrollPaddingRight":"scrollPaddingRight",
+   "scrollPaddingTop":"scrollPaddingTop",
+   "scrollSnapAlign":"scrollSnapAlign",
+   "scrollSnapType":"scrollSnapType",
+   "scrollbarColor":"scrollbarColor",
+   "scrollbarWidth":"scrollbarWidth",
+   "shapeImageThreshold":"shapeImageThreshold",
+   "shapeMargin":"shapeMargin",
+   "shapeOutside":"shapeOutside",
+   "shapeRendering":"shapeRendering",
+   "stopColor":"stopColor",
+   "stopOpacity":"stopOpacity",
+   "stroke":"stroke",
+   "strokeDasharray":"strokeDasharray",
+   "strokeDashoffset":"strokeDashoffset",
+   "strokeLinecap":"strokeLinecap",
+   "strokeLinejoin":"strokeLinejoin",
+   "strokeMiterlimit":"strokeMiterlimit",
+   "strokeOpacity":"strokeOpacity",
+   "strokeWidth":"strokeWidth",
+   "tableLayout":"tableLayout",
+   "textAlign":"textAlign",
+   "textAlignLast":"textAlignLast",
+   "textAnchor":"textAnchor",
+   "textCombineUpright":"textCombineUpright",
+   "textDecoration":"textDecoration",
+   "textDecorationColor":"textDecorationColor",
+   "textDecorationLine":"textDecorationLine",
+   "textDecorationStyle":"textDecorationStyle",
+   "textEmphasis":"textEmphasis",
+   "textEmphasisColor":"textEmphasisColor",
+   "textEmphasisPosition":"textEmphasisPosition",
+   "textEmphasisStyle":"textEmphasisStyle",
+   "textIndent":"textIndent",
+   "textJustify":"textJustify",
+   "textOrientation":"textOrientation",
+   "textOverflow":"textOverflow",
+   "textRendering":"textRendering",
+   "textShadow":"textShadow",
+   "textTransform":"textTransform",
+   "top":"top",
+   "touchAction":"touchAction",
+   "transform":"transform",
+   "transformBox":"transformBox",
+   "transformOrigin":"transformOrigin",
+   "transformStyle":"transformStyle",
+   "transition":"transition",
+   "transitionDelay":"transitionDelay",
+   "transitionDuration":"transitionDuration",
+   "transitionProperty":"transitionProperty",
+   "transitionTimingFunction":"transitionTimingFunction",
+   "unicodeBidi":"unicodeBidi",
+   "vectorEffect":"vectorEffect",
+   "verticalAlign":"verticalAlign",
+   "visibility":"visibility",
+   "webkitAlignContent":"webkitAlignContent",
+   "webkitAlignItems":"webkitAlignItems",
+   "webkitAlignSelf":"webkitAlignSelf",
+   "webkitAnimation":"webkitAnimation",
+   "webkitAnimationDelay":"webkitAnimationDelay",
+   "webkitAnimationDirection":"webkitAnimationDirection",
+   "webkitAnimationDuration":"webkitAnimationDuration",
+   "webkitAnimationFillMode":"webkitAnimationFillMode",
+   "webkitAnimationIterationCount":"webkitAnimationIterationCount",
+   "webkitAnimationName":"webkitAnimationName",
+   "webkitAnimationPlayState":"webkitAnimationPlayState",
+   "webkitAnimationTimingFunction":"webkitAnimationTimingFunction",
+   "webkitAppearance":"webkitAppearance",
+   "webkitBackfaceVisibility":"webkitBackfaceVisibility",
+   "webkitBackgroundClip":"webkitBackgroundClip",
+   "webkitBackgroundOrigin":"webkitBackgroundOrigin",
+   "webkitBackgroundSize":"webkitBackgroundSize",
+   "webkitBorderBottomLeftRadius":"webkitBorderBottomLeftRadius",
+   "webkitBorderBottomRightRadius":"webkitBorderBottomRightRadius",
+   "webkitBorderImage":"webkitBorderImage",
+   "webkitBorderRadius":"webkitBorderRadius",
+   "webkitBorderTopLeftRadius":"webkitBorderTopLeftRadius",
+   "webkitBorderTopRightRadius":"webkitBorderTopRightRadius",
+   "webkitBoxAlign":"webkitBoxAlign",
+   "webkitBoxDirection":"webkitBoxDirection",
+   "webkitBoxFlex":"webkitBoxFlex",
+   "webkitBoxOrdinalGroup":"webkitBoxOrdinalGroup",
+   "webkitBoxOrient":"webkitBoxOrient",
+   "webkitBoxPack":"webkitBoxPack",
+   "webkitBoxShadow":"webkitBoxShadow",
+   "webkitBoxSizing":"webkitBoxSizing",
+   "webkitFilter":"webkitFilter",
+   "webkitFlex":"webkitFlex",
+   "webkitFlexBasis":"webkitFlexBasis",
+   "webkitFlexDirection":"webkitFlexDirection",
+   "webkitFlexFlow":"webkitFlexFlow",
+   "webkitFlexGrow":"webkitFlexGrow",
+   "webkitFlexShrink":"webkitFlexShrink",
+   "webkitFlexWrap":"webkitFlexWrap",
+   "webkitJustifyContent":"webkitJustifyContent",
+   "webkitLineClamp":"webkitLineClamp",
+   "webkitMask":"webkitMask",
+   "webkitMaskClip":"webkitMaskClip",
+   "webkitMaskComposite":"webkitMaskComposite",
+   "webkitMaskImage":"webkitMaskImage",
+   "webkitMaskOrigin":"webkitMaskOrigin",
+   "webkitMaskPosition":"webkitMaskPosition",
+   "webkitMaskPositionX":"webkitMaskPositionX",
+   "webkitMaskPositionY":"webkitMaskPositionY",
+   "webkitMaskRepeat":"webkitMaskRepeat",
+   "webkitMaskSize":"webkitMaskSize",
+   "webkitOrder":"webkitOrder",
+   "webkitPerspective":"webkitPerspective",
+   "webkitPerspectiveOrigin":"webkitPerspectiveOrigin",
+   "webkitTextFillColor":"webkitTextFillColor",
+   "webkitTextSizeAdjust":"webkitTextSizeAdjust",
+   "webkitTextStroke":"webkitTextStroke",
+   "webkitTextStrokeColor":"webkitTextStrokeColor",
+   "webkitTextStrokeWidth":"webkitTextStrokeWidth",
+   "webkitTransform":"webkitTransform",
+   "webkitTransformOrigin":"webkitTransformOrigin",
+   "webkitTransformStyle":"webkitTransformStyle",
+   "webkitTransition":"webkitTransition",
+   "webkitTransitionDelay":"webkitTransitionDelay",
+   "webkitTransitionDuration":"webkitTransitionDuration",
+   "webkitTransitionProperty":"webkitTransitionProperty",
+   "webkitTransitionTimingFunction":"webkitTransitionTimingFunction",
+   "webkitUserSelect":"webkitUserSelect",
+   "whiteSpace":"whiteSpace",
+   "width":"width",
+   "willChange":"willChange",
+   "wordBreak":"wordBreak",
+   "wordSpacing":"wordSpacing",
+   "wordWrap":"wordWrap",
+   "writingMode":"writingMode",
+   "zIndex":"zIndex"
 }
