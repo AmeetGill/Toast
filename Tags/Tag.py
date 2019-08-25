@@ -24,19 +24,19 @@ class Tag:
 		self.checkStylesAreValid(jsonStyleObj)
 		child_tag_string =  "" if self.childrens is None else self.generate(self.childrens,jsonStyleObj)
 		inline_style_string = "" if self.inlineStyle is None else self.generate_style_obj_string(jsonStyleObj)
-		self.tag_string.format(self.tagType,self.className,self.tagId,child_tag_string)
+		self.tag_string.format(self.tagType,self.className,self.tagId,inline_style_string,child_tag_string)
 
 
 	def checkStylesAreValid(self,jsonStyleObj):
-		for key, value in self.style.__dict__.items():
+		for key,  in self.style.__dict__.items():
 			if(key not in jsonStyleObj):
 				raise Exception("in {} '{}' is not a valid style attribute".format(self.tagType,key))
-		for key, value in self.inlineStyle.__dict__.items():
+		for key,  in self.inlineStyle.__dict__.items():
 			if(key not in jsonStyleObj):
 				raise Exception("in {} '{}' is not a valid style attribute".format(self.tagType,key))
 
 	def generate_style_obj_string(self,jsonStyleObj):
 		str = ""
-		for key, value in self.inlineStyle.__dict__.items():
+		for key,  in self.inlineStyle.__dict__.items():
 			str += jsonStyleObj[key]+ "=" + self.inlineStyle[key] + ";"  
 		return str
