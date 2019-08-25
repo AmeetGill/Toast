@@ -8,4 +8,4 @@ class Html:
 		jsonStyleObj = {}
 		with open('../style/parsed_style.json') as f:
 			jsonStyleObj = json.load(f)
-		print(self.tag_string.format(self.children_teg.generate(jsonStyleObj)))
+		print(self.tag_string.format(self.children_tag.generate(jsonStyleObj)))
