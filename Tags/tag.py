@@ -1,4 +1,4 @@
-class Tag:
+class tag:
 	def __init__(self,tagId = "",className = "",style = {},childrens = [],tagType="div",inlineStyle={}):
 		assert(tagId is "") , "in {} id must be a string".format(tagType)
 		assert(tagType is "") , "in {} tagType must be a string".format(tagType)

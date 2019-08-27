@@ -1,5 +1,5 @@
-from Tag import Tag
-class CustomTag(Tag):
+from tag import tag
+class CustomTag(tag):
     def __init__(self,customGenerator,*args):
         self.custom_generator_func = customGenerator
         self.custom_generator_args = args

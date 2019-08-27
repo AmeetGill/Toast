@@ -1,5 +1,5 @@
 import json
-class Html:
+class html:
 	def __init__(self):
 		self.tag_string = "<html>{}</html>"
 		self.children_tag = None
