@@ -1,6 +1,5 @@
 class head:
-    def __init__(self,title="default title"):
-        assert(title is ""), "title must be string"
+    def __init__(self,title:str ="default title"):
         self.tag_string = "<head><title>{0}</title></head>"
         self.title = title
 
