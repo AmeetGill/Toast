@@ -1,10 +1,8 @@
 class head:
-	def __init__(self,title = ""):
-		self.tag_string = '<title>{0}</title>'.format(title)
+    def __init__(self,title="default title"):
+        assert(title is ""), "title must be string"
+        self.tag_string = "<head><title>{0}</title></head>"
+        self.title = title
 
-    def generate(self,childrens,jsonStyleObj):
-		tags_string = ""
-		for child in childrens:
-			tags_string += child.generate_child_tags(jsonStyleObj)
-		return tags_string
-
+    def generate(self,jsonObj):
+        return self.tag_string.format(self.title)
