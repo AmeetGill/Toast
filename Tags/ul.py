@@ -9,7 +9,7 @@ class ul(tag):
 		for elem in data:
 			self.childrens.push(li(className = str(index),inlineStyle = listStyle))
 
-	def create_list_from_json(self.jsonObj = {}):
+	def create_list_from_json(self,jsonObj = {}):
 		''' to do '''
 
 

@@ -14,18 +14,18 @@ class tag:
 		self.tagType = tagType
 		self.inlineStyle= inlineStyle
 	
-	def generate(self,childrens,jsonStyleObj):
+	def generate_child_tags(self,childrens,jsonStyleObj):
 		tags_string = ""
 		for child in childrens:
-			tags_string += child.generate_child_tags(jsonStyleObj)
+			tags_string += child.generate(jsonStyleObj)
 		return tags_string
 
-	def generate_child_tags(self,jsonStyleObj):
+	def generate(self,jsonStyleObj):
 		self.checkStylesAreValid(jsonStyleObj)
-		child_tag_string =  "" if self.childrens is None else self.generate(self.childrens,jsonStyleObj)
+		child_tag_string =  "" if self.childrens is None else self.generate_child_tags(self.childrens,jsonStyleObj)
 		inline_style_string = "" if self.inlineStyle is None else self.generate_style_obj_string(jsonStyleObj)
 		self.tag_string.format(self.tagType,self.className,self.tagId,inline_style_string,child_tag_string)
-
+		return self.tag_string
 
 	def checkStylesAreValid(self,jsonStyleObj):
 		for key,  in self.style.__dict__.items():
