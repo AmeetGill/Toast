@@ -7,7 +7,7 @@ from ul import ul
 head = head(title="test page")
 h1 = h1(text = "hello")
 ul = ul();
-ul.create_list_from_list(["he","ha","hy"],{})
+ul.create_list_from_list(["he","ha","hy"],{"fontSize":"12px"})
 childs = [h1,ul]
 body = body(childrens = childs)
 page = html(head_tag = head,body_tag = body)

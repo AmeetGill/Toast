@@ -11,29 +11,27 @@ class tag:
 	
 	def generate_child_tags(self,childrens,jsonStyleObj):
 		tags_string = ""
-		print(self.tagType + str(childrens))
 		for child in childrens:
 			tags_string += child.generate(jsonStyleObj)
 		return tags_string
 
 	def generate(self,jsonStyleObj):
-		#self.checkStylesAreValid(jsonStyleObj)
+		self.checkStylesAreValid(jsonStyleObj)
 		child_tag_string =  "" if self.childrens is None else self.generate_child_tags(self.childrens,jsonStyleObj)
-		#inline_style_string = "" if self.inlineStyle is None else self.generate_style_obj_string(jsonStyleObj)
-		inline_style_string = ""
+		inline_style_string = "" if self.inlineStyle is None else self.generate_style_obj_string(jsonStyleObj)
 		generated = self.tag_string.format(tagType = self.tagType,className = self.className,tagId = self.tagId,inline_style_string = inline_style_string,child_tag_string = child_tag_string+self.text)
 		return generated
 
 	def checkStylesAreValid(self,jsonStyleObj):
-		for key,  in self.style.__dict__.items():
+		for key in self.style:
 			if(key not in jsonStyleObj):
 				raise Exception("in {} '{}' is not a valid style attribute".format(self.tagType,key))
-		for key,  in self.inlineStyle.__dict__.items():
+		for key  in self.inlineStyle:
 			if(key not in jsonStyleObj):
 				raise Exception("in {} '{}' is not a valid style attribute".format(self.tagType,key))
 
 	def generate_style_obj_string(self,jsonStyleObj):
 		str = ""
-		for key,  in self.inlineStyle.__dict__.items():
+		for key in self.inlineStyle:
 			str += jsonStyleObj[key]+ "=" + self.inlineStyle[key] + ";"  
 		return str
