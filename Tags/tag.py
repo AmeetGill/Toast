@@ -46,3 +46,9 @@ class tag:
         for key in self.inlineStyle:
             cssString += jsonStyleObj[key] + "=" + self.inlineStyle[key] + ";"
         return cssString
+
+    def generate_css_file(self, jsonStyleObj):
+        cssString = ""
+        for key in self.inlineStyle:
+            cssString += jsonStyleObj[key] + "=" + self.inlineStyle[key] + ";"
+        return cssString
